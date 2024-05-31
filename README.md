@@ -4,7 +4,7 @@ I'm currently a third-year Computer Science Major at Georgia Tech Institute of T
 
 ## Here are some links: <br>
 - 🚧 Personal Website (Work-in-Progress): [peacebypieces.dev](https://peacebypieces.dev) <br>
-- 💼 Linkedin: [Linkedin Page](https://www.linkedin.com/in/thomaswang07/) <br>
+- 💼 Linkedin: [linkedin.com/in/thomaswang07](https://www.linkedin.com/in/thomaswang07/) <br>
 
 
 
