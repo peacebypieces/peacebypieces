@@ -2,7 +2,7 @@
 
 I'm currently a Junior at Georgia Tech Institute of Technology. Nice to meet you! <br>
 
-# Here are some links: <br>
+## Here are some links: <br>
 - 🚧 Personal Website (Work-in-Progress): [https://peacebypieces.dev](peacebypieces.dev) <br>
 - 💼 Linkedin: [https://www.linkedin.com/in/thomaswang07/](Linkedin) <br>
 
