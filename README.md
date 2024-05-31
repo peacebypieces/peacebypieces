@@ -6,7 +6,7 @@ I'm currently a third-year Computer Science Major at the Georgia Institute of Te
 - 🚧 Personal Website (Work-in-Progress): [peacebypieces.dev](https://peacebypieces.dev) <br>
 - 💼 Linkedin: [linkedin.com/in/thomaswang07](https://www.linkedin.com/in/thomaswang07/) <br>
 
-## 🎯 Working on
+## 🎯 Working on:
 [🎮 That One Cat Game](https://peacebypieces.itch.io/cat-game) <br> 
 [🌐 Personal Website](https://peacebypieces.dev) <br>
 [
