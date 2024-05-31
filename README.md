@@ -1,4 +1,4 @@
-## 👋 Heyyo! Welcome to my GitHub! </br>
+## 👋 Heyyo! </br>
 
 I'm currently a third-year Computer Science Major at the Georgia Institute of Technology. <br><br> Thanks for checking out my GitHub! <br>
 
