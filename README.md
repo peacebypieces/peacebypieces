@@ -1,6 +1,6 @@
 ## Heyyo! 👋 </br>
 
-I'm currently a Junior at Georgia Tech Institute of Technology. <br> Thanks for checking out my GitHub! <br>
+I'm currently a third-year Computer Science Major at Georgia Tech Institute of Technology. <br> Thanks for checking out my GitHub! <br>
 
 ## Here are some links: <br>
 - 🚧 Personal Website (Work-in-Progress): [https://peacebypieces.dev](peacebypieces.dev) <br>
