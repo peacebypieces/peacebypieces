@@ -11,7 +11,7 @@ I'm currently a third-year Computer Science Major at the Georgia Institute of Te
 - 🌐 [Personal Website](https://peacebypieces.dev) <br>
 - 🛶 [The Odin Project](https://www.theodinproject.com/) <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peacebypieces&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peacebypieces&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
